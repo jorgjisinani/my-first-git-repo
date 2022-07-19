@@ -1,5 +1,5 @@
 package first_git_package;
 
-public class FirstJavaClass {
+public class SecondJavaClass {
 
 }
